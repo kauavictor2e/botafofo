@@ -1,0 +1,59 @@
+h1 {text-align: center;
+    color: blue;
+    font-size: 50px;
+    font-style: italic;
+}
+
+header{
+    background-color: cornflowerblue;
+}
+
+nav li {
+    display: inline;
+    margin-right: 18px;
+}
+
+nav a {
+text-transform: uppercase;
+color: darkblue;
+font-weight: bold;
+font-size: 15px;
+text-decoration: none;
+}
+
+.logotipo{
+    width: 15%;
+
+}
+.servicos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0; 
+}
+
+.servicos li{
+    display: inline-block;
+    text-align:center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 0px;
+    box-sizing: border-box;
+}
+.servicos img{
+    width: 200px;
+    height: 220px;
+}
+ .servicos h2{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 10px;
+ }
+ .descricao{
+    font-size: 18px;
+ }
+ .preco{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+ }
