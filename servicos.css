@@ -13,12 +13,17 @@ nav li {
     margin-right: 18px;
 }
 
+nav a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
 nav a {
 text-transform: uppercase;
 color: darkblue;
 font-weight: bold;
 font-size: 15px;
-text-decoration: none;
+text-decoration: none;<meta charset="UTF-8">
 }
 
 .logotipo{
@@ -39,7 +44,24 @@ text-decoration: none;
     margin: 0 1.5%;
     padding: 30px 0px;
     box-sizing: border-box;
+    border: 2px solid  cornflowerblue;
+    border-radius: 10px;
+
 }
+
+.servicos li:hover{
+border-color: blueviolet;
+}
+ .servicos li:hover h2{
+    font-size: 34px;
+    color: blueviolet;
+ }
+ .servicos li:active{
+    border-color: violet;
+    border-width: 4px;
+ }
+
+ 
 .servicos img{
     width: 200px;
     height: 220px;
