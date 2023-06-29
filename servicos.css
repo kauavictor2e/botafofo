@@ -6,6 +6,7 @@ h1 {text-align: center;
 
 header{
     background-color: cornflowerblue;
+    padding: 40px;
 }
 
 nav li {
@@ -79,3 +80,17 @@ border-color: blueviolet;
     font-weight: bold;
     margin-top: 10px;
  }
+
+ footer{
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 40px;
+ }
+  footer img{
+    width: 10%;
+  }
+
+  .copyright{
+    font-size: 13px;
+    margin: 20px 0;
+  }
