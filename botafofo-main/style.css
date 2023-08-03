@@ -24,7 +24,7 @@ text-transform: uppercase;
 color: darkblue;
 font-weight: bold;
 font-size: 15px;
-text-decoration: none;<meta charset="UTF-8">
+text-decoration: none; <meta charset="UTF-8">
 }
 
 .logotipo{
@@ -94,3 +94,29 @@ border-color: blueviolet;
     font-size: 13px;
     margin: 20px 0;
   }
+
+  main{
+    width: 940px;
+    margin: 0 auto;
+  }
+
+  form{
+    margin: 40px 0;
+  }
+
+  form label, form p {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+  }
+
+ .input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 05px 30px;
+    width: 50%;
+   }
+
+   .checkbox{
+    margin: 20px 0;
+   }
