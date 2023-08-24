@@ -3,7 +3,7 @@ h1{
     color: rgb(73, 153, 245);
     font-size: 68px;
     font-style: italic;
-    background-color: darkblue;
+    background-color: rgb(73, 153, 245);
     padding: 40;
 
 }
@@ -26,7 +26,7 @@ body{
 }
 
 ul{
-    background-color:rgb(22, 34, 143);
+    background-color:rgb(255, 251, 251);
 }
 
 .contato {
